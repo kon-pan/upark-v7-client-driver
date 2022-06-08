@@ -1,0 +1,17 @@
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  background-color: #a9b4c2;
+}
+
+/* Customize the Clustered Markers */
+.marker-cluster-custom {
+  background: rgb(59, 131, 246);
+  border: 4px solid rgba(94, 121, 163, 0.342);
+  border-radius: 50%;
+  color: white;
+  height: 40px;
+  line-height: 37px;
+  text-align: center;
+  width: 40px;
+}
